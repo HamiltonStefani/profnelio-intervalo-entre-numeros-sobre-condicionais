@@ -33,7 +33,7 @@ public class Main {
 			System.out.println("Está entre: 75, 100");
 			
 		}
-
+             sc.close();
 	}
 
 }
